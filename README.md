@@ -1,4 +1,4 @@
-# <img width=30px height=30px src="https://github.com/camilavitoriacosta/ArvoreDeLinks/blob/master/src/svg/terminal.svg" alt="pokebola"> [Árvore de Links ](https://github.com/camilavitoriacosta/ArvoreDeLinks)
+# <img width=30px height=30px src="https://github.com/camilavitoriacosta/ArvoreDeLinks/blob/master/src/svg/terminal.svg" alt="terminal svg"> [Árvore de Links](https://camilavitoriacosta.github.io/ArvoreDeLinks/)
 Projeto feito utilizando HTML, CSS e Java Script.
 
 ## 📚 Tecnologias
